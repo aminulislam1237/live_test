@@ -1,4 +1,4 @@
-lass Media {
+class Media {
 void play() {
   print("Playing media...");
 }
